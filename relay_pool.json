@@ -1,0 +1,7 @@
+{
+  "nodes": [
+    {"node_id": "VPS1", "address": "79.72.71.101:7771"},
+    {"node_id": "sov-node-5", "address": "136.119.11.49:7771"},
+    {"node_id": "VPS4", "address": "35.192.130.190:7771"}
+  ]
+}
